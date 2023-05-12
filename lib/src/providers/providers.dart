@@ -1,0 +1,1 @@
+export 'package:newsapp/src/providers/navigator_provider.dart';
